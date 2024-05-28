@@ -21,7 +21,7 @@ repository               : "SendongZHao/stanzhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "Sendong (Stan) Zhao"
   pronouns         : # example: "he/his"  
   bio              : "Researcher in NLP. Associate Professor@HIT. Former Postdoc @Cornell"
