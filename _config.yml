@@ -85,7 +85,7 @@ author:
   bio              : "Researcher in NLP. Associate Professor@HIT. Former Postdoc @Cornell"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ZtIhRvwAAAAJ&hl=EN"
   email            : "zhaosendong@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "SendongZhao"
   vine             :
   weibo            :
   xing             :
