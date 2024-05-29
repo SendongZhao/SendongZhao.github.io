@@ -14,5 +14,5 @@ From 2018 to 2020, I conducted postdoctoral research at Cornell University, work
 **`News`**
 ======
 - One paper has been accepted by ACL 2024.
-- We recently developed a large Chinese medical model, [BenTsao](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/blob/main/README_EN.md) (originally named: Huatuo), and we welcome everyone to try it! (GitHub link: https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese).
+- We recently developed a large Chinese medical model, [BenTsao](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese/blob/main/README_EN.md) (originally named: Huatuo) *4.3k* stars, and we welcome everyone to try it! (GitHub link: https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese).
 - Our paper received an honorable mention for the Best Paper Award at ACL 2023.
