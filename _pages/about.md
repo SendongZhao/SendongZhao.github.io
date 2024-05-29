@@ -11,5 +11,5 @@ I am an Associate Professor and Ph.D. Supervisor at the School of Computer Scien
 From 2018 to 2020, I conducted postdoctoral research at Cornell University, working with Professor [Fei Wang](https://wcm-wanglab.github.io/). I completed my Ph.D. at the HIT Center for Social Computing and Information Retrieval in 2018, under the supervision of Professor Ting Liu. From 2015 to 2016, I was a visiting Ph.D. student at UIUC, under the guidance of Professor [ChengXiang Zhai](https://czhai.cs.illinois.edu/).
 
 
-'**News**'
+**`News`**
 ======
