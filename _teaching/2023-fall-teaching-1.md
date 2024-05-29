@@ -1,5 +1,5 @@
 ---
-title: "程序设计思维与实践"
+title: "Programming Design Thinking and Practice"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
