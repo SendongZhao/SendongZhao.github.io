@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sendong (Stan) Zhao/Personal Homepage"
+title                    : "Sendong (Stan) Zhao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Sendong Zhao"
 description              : &description "personal description"
