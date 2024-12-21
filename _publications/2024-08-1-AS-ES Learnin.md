@@ -3,7 +3,7 @@ title: "AS-ES Learning: Towards efficient CoT learning in small models"
 collection: publications
 permalink: /publication/AS-ES Learning
 excerpt: 
-date: 2024-08-1
+date: 2024-12-10
 venue: 'ACL 2024'
 slidesurl: 
 paperurl: "https://arxiv.org/abs/2403.01969"
