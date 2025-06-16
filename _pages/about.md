@@ -13,6 +13,7 @@ From 2018 to 2020, I conducted postdoctoral research at Cornell University, work
 
 **`News`**
 ======
+- Three papers have been accepted by ACL 2025
 - Three papers have been accepted by NeurIPS 2024, AAAI 2025, and COLING 2025.
 - Our "Knowledge-tuning" paper has been accepted by ACM TKDD.
 - One paper has been accepted by ACL 2024.
